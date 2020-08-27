@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## HW 1: Chapter 1
 
