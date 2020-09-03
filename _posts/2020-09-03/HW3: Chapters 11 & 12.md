@@ -1,0 +1,24 @@
+---
+layout: post
+title: HW3: Chapters 11 & 12
+published: true
+---
+
+11.4
+
+The common characteristic is the system architecture has to be designed to include redundant and diverse hardware and software. 
+
+11.7
+
+I think it is a good suggestion to implement N-version programming in this environment. Even though N-version programming requires several development teams leading to higher costs. it  safeguards against serious medical procedures ensure all patients remain safe while getting the treatment they need.
+
+11.9
+
+In order to prevent a system shut down all exceptions must be handled explicitly. Thus development teams must handle all exceptions as they occur. If a system shutdown occurs, this will prevent a high level of availability. 
+
+12.5
+1. Check the upcoming track section for a red light
+2. Check if the train speed is less then the speed limit for the current section
+3. If the track section is red transition to track with green light
+4. If train speed is greater than section speed apply the brakes
+5. If no section is available (green light) apply brakes until stopped.
